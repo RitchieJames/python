@@ -1,6 +1,4 @@
 import requests
-from datetime import datetime
-import pytz
 print("use https://www.latlong.net/ to find the latitude and longitude of the desired place ")
 my_lat = float(input("enter the latitude "))
 my_long = float(input("enter the longitude "))
